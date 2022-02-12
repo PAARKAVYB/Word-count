@@ -23,12 +23,13 @@ print the word count.
 Step 6:
 Call the funtion.
 
-## PROGRAM:
+PROGRAM:
 '''
 Python program for getting the word count from a text.
 Developed by: B.Paarkavy
 RegisterNumber: 21500424
 '''
+
 
 ```
 def wordcount(filen):
