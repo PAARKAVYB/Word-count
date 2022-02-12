@@ -18,15 +18,14 @@ Step 4:
 Count the number of words using for loop.
 
 Step 5:
-print the word count
+print the word count.
 
 Step 6:
-Call the funtion
+Call the funtion.
 
 ## PROGRAM:
 
 Python program for getting the word count from a text.
-
 Developed by: B.Paarkavy
 RegisterNumber: 21500424
 
@@ -44,9 +43,9 @@ wordcount(filename)
 ```
 ## OUTPUT:
 Text File "File1.txt":
-![output](word1.jpeg)
-## output of the code:
 ![output](word2.jpeg)
+## output of the code:
+![output](word1.jpeg)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
